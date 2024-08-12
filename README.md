@@ -2,6 +2,8 @@
 
 This project demonstrates the use of a Logistic Regression model for detecting whether a news article is real or fake based on its content. The dataset used is from a Kaggle competition.
 
+https://www.kaggle.com/competitions/fake-news/data
+
 Table of Contents
 Installation
 Usage
